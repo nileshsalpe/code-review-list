@@ -29,6 +29,8 @@
 
 - If assigning is too much busy or not confortable in area of code change he should communicate in standups.
 
+- All checks in pipeline are passed before assigning the review.
+
 
 ### In CR 
 
