@@ -2,7 +2,7 @@
 
 # Code Review Etiquette
 
-- Give dedicated teams time for code review - Example morning 10.30 to 11 all will do code review if they have assigned one.
+- Give dedicated teams time for code review - Example morning 10.30 to 11 am all will do code review if they have assigned one. Book calendar of team to do so for timely and quality code reviews.
 
 - Avoid code brothers envrionment so no two persons always review each others code.
 
@@ -42,7 +42,6 @@
 ### After CR approved
 
 ### If CR rejected
-
 
 # Automation of code review steps 
 
