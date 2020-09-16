@@ -29,6 +29,7 @@
 
 - If assigning is too much busy or not confortable in area of code change he should communicate in standups.
 
+
 ### In CR 
 
 - Critisize the code not person but code. Give constructive comments. Create harmnious environment, code review is not smartness game to win but it is constant effort to improve product and so appease customers.
@@ -38,6 +39,8 @@
 - Code reviewer should understand contraints of code for timeline/infra/dependent systems/services/product evolution path etc. and assumptions teams best practices for coding etc.
 
 - If there are too many iterations say 4-5, reviewer and code need to sync either through meeting to resolve the conflicts.
+
+- Code can reject comments sighting valid reason like time contraints or hidden assumptions etc.
 
 ### After CR approved
 
