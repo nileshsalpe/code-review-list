@@ -1,5 +1,3 @@
-### Code Review at Acme Corp.
-
 # Code Review - Etiquettes
 
 ## Table of Content
