@@ -14,6 +14,6 @@
       
    - How to install ?
    
-   - [Chrome Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-   - [Mozilla-Add-on](https://addons.mozilla.org/en-CA/firefox/addon/tampermonkey)
+     - [Chrome Extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+     - [Mozilla-Add-on](https://addons.mozilla.org/en-CA/firefox/addon/tampermonkey)
     
